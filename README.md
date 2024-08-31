@@ -8,5 +8,12 @@ O LearnConnect Hub será uma aplicação web focada em criar uma plataforma para
 - Autenticação: Firebase Authentication
 - Integração: API do Discord.
 
-# Você pode me encontrar em:
-- [Discord](<https://discord.gg/B9aeaWq2UH>)
+-----------------------------------------------
+
+# Este é o meu projeto principal no Discord: 
+- [Projeto Old Duque´s: Materiais de Estudo focados em Tecnologia](<https://discord.gg/B9aeaWq2UH>)
+
+-----------------------------------------------
+
+# Conheça meus demais projetos e integrações com o LearnConnect HUB:
+- [Atual WebSite de entrada no LearnConnect](<>)

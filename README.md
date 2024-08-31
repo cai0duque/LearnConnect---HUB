@@ -7,3 +7,6 @@ O LearnConnect Hub será uma aplicação web focada em criar uma plataforma para
 - Banco de Dados: PostgreSQL.
 - Autenticação: Firebase Authentication
 - Integração: API do Discord.
+
+# Você pode me encontrar em:
+- [Discord](<https://discord.gg/B9aeaWq2UH>)

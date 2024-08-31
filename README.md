@@ -16,4 +16,4 @@ O LearnConnect Hub será uma aplicação web focada em criar uma plataforma para
 -----------------------------------------------
 
 # Conheça meus demais projetos e integrações com o LearnConnect HUB:
-- [Atual WebSite de entrada no LearnConnect](<>)
+- [Atual WebSite de entrada no LearnConnect](<https://cai0duque.github.io/website-duque/>)
